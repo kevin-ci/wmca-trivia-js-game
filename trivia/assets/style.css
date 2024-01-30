@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+#question {
+    font-size: xx-large;
+}
+
+.answer-button {
+    height: 200px;
+}
